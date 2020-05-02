@@ -26,4 +26,4 @@ There is only one Jupyter notebook for this project, and it contains all the cod
 The main findings of the code can be found at the post available [here](http://datascience2go.nl/2020/05/a-machine-learning-model-to-detect-the-sexiness-of-an-airbnb-rental/).
 ## Licensing, Authors, Acknowledgements<a name="licensing"></a>
 I am the only author.
-Feel free to use this project in the best way you can :) 
+Feel free to use this project in the best way you can :)
